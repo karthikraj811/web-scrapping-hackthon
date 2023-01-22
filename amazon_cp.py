@@ -32,7 +32,7 @@ def scrapper(driver_path, input_file):
     driver =  webdriver.Chrome(executable_path=driver_path)
     driver.maximize_window()
     for i in list_url:
-    # for i in ['https://www.amazon.in/dp/B09XX9SB44']:
+    # for i in ['https://www.amazon.in/dp/B0BLWCRYKC','https://www.amazon.in/dp/B0BJPT82NT']:
         web = i+'?th=1&psc=1'
         driver.get(web)
         Product_URL.append(web)
@@ -88,19 +88,20 @@ def scrapper(driver_path, input_file):
             Description.append(description)
         try:    
             style_id = driver.find_element(By.XPATH,'//*[@id="detailBullets_feature_div"]/ul/li[5]/span/span[1]').text 
-            if style_id == 'Item part number :':
+            if 'Item part number' in style_id  or 'Item model number' in style_id  :
                 
                 style_id = driver.find_element(By.XPATH,'//*[@id="detailBullets_feature_div"]/ul/li[5]/span/span[2]').text
             else:
                 style_id = driver.find_element(By.XPATH,'//*[@id="detailBullets_feature_div"]/ul/li[4]/span/span[1]').text
-                if style_id == 'Item part number :':
+                if 'Item part number' in style_id  or 'Item model number' in style_id :
                 
                     style_id = driver.find_element(By.XPATH,'//*[@id="detailBullets_feature_div"]/ul/li[4]/span/span[2]').text
                 else:
                     style_id = driver.find_element(By.XPATH,'//*[@id="detailBullets_feature_div"]/ul/li[3]/span/span[1]').text
-                    if style_id == 'Item part number :':
+                    if 'Item part number' in style_id  or 'Item model number' in style_id :
                 
-                        style_id = driver.find_element(By.XPATH,'//*[@id="detailBullets_feature_div"]/ul/li[4]/span/span[2]').text
+                        style_id = driver.find_element(By.XPATH,'//*[@id="detailBullets_feature_div"]/ul/li[3]/span/span[2]').text
+
                     else:
                         style_id ='NA'
             Style_Id.append(style_id)
@@ -124,6 +125,5 @@ def scrapper(driver_path, input_file):
     
 
 print(scrapper(driver_path,input_path))
-
 
 

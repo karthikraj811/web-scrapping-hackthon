@@ -1,5 +1,5 @@
-,amz_url,Title,Category,Selling Price,MRP,Seller Name,Product Details,Description,style_id
-0,https://www.amazon.in/dp/B0BJPS48PJ,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+,Unnamed: 0,amz_url,Title,Category,Selling Price,MRP,Seller Name,Product Details,Description,style_id,brand
+0,0,https://www.amazon.in/dp/B0BJPS48PJ,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -13,8 +13,8 @@ Item part number : 101_FS_DDL_BLK_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 310 g",na,101_FS_DDL_BLK_L
-1,https://www.amazon.in/dp/B0BJPS6NQ5,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Item Weight : 310 g",na,101_FS_DDL_BLK_L,veirdo
+1,1,https://www.amazon.in/dp/B0BJPS6NQ5,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -28,8 +28,8 @@ Item part number : 101_FS_FRSOUL_SN_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 290 g",na,101_FS_FRSOUL_SN_L
-2,https://www.amazon.in/dp/B0BJPS1ZYL,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Item Weight : 290 g",na,101_FS_FRSOUL_SN_L,veirdo
+2,2,https://www.amazon.in/dp/B0BJPS1ZYL,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -43,8 +43,8 @@ Item part number : 101_FS_MSCT_BLK_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 300 g",na,101_FS_MSCT_BLK_L
-3,https://www.amazon.in/dp/B0BN42L8G7,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Item Weight : 300 g",na,101_FS_MSCT_BLK_L,veirdo
+3,3,https://www.amazon.in/dp/B0BN42L8G7,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -58,8 +58,8 @@ Item part number : 101_FS_RCNCTNG_MR_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 240 g",na,101_FS_RCNCTNG_MR_L
-4,https://www.amazon.in/dp/B0BJPTNZM7,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Item Weight : 240 g",na,101_FS_RCNCTNG_MR_L,veirdo
+4,4,https://www.amazon.in/dp/B0BJPTNZM7,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -73,8 +73,8 @@ Item part number : 101_FS_TEDDY_BLK_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 300 g",na,101_FS_TEDDY_BLK_L
-5,https://www.amazon.in/dp/B0BN426ZLD,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Item Weight : 300 g",na,101_FS_TEDDY_BLK_L,veirdo
+5,5,https://www.amazon.in/dp/B0BN426ZLD,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -88,8 +88,8 @@ Item part number : 101_FS_TPHPE_NY_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 240 g",na,101_FS_TPHPE_NY_L
-6,https://www.amazon.in/dp/B0BN43XNM3,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Item Weight : 240 g",na,101_FS_TPHPE_NY_L,veirdo
+6,6,https://www.amazon.in/dp/B0BN43XNM3,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -103,8 +103,8 @@ Item part number : 101_FS_TPHPE_RD_M
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 240 g",na,101_FS_TPHPE_RD_M
-7,https://www.amazon.in/dp/B0BN43ZGWX,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Item Weight : 240 g",na,101_FS_TPHPE_RD_M,veirdo
+7,7,https://www.amazon.in/dp/B0BN43ZGWX,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -118,8 +118,8 @@ Item part number : 101_FS_TRVLALNG_BL_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 240 g",na,101_FS_TRVLALNG_BL_L
-8,https://www.amazon.in/dp/B0BN42PFDZ,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Item Weight : 240 g",na,101_FS_TRVLALNG_BL_L,veirdo
+8,8,https://www.amazon.in/dp/B0BN42PFDZ,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -133,8 +133,8 @@ Item part number : 101_FS_TRVLALNG_RD_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 240 g",na,101_FS_TRVLALNG_RD_L
-9,https://www.amazon.in/dp/B0BJPT97PX,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Item Weight : 240 g",na,101_FS_TRVLALNG_RD_L,veirdo
+9,9,https://www.amazon.in/dp/B0BJPT97PX,Veirdo® Pure Cotton Full Sleeves Round Neck Cool & Stylish Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -148,8 +148,8 @@ Item part number : 101_FS_VEIRDO_RB_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 240 g",na,101_FS_VEIRDO_RB_L
-10,https://www.amazon.in/dp/B0B1N5HSJF,"JUNEBERRY Women's Crop Top, Official Disney Mickey Mouse Cartoon Printed Half Sleeve Slim Fit Girls Top","Clothing & Accessories
+Item Weight : 240 g",na,101_FS_VEIRDO_RB_L,veirdo
+10,10,https://www.amazon.in/dp/B0B1N5HSJF,"JUNEBERRY Women's Crop Top, Official Disney Mickey Mouse Cartoon Printed Half Sleeve Slim Fit Girls Top","Clothing & Accessories
 ›
 Women
 ›
@@ -167,8 +167,8 @@ Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Net Quantity : 1.00 count",na,C_DCM2214_W_3XL
-11,https://www.amazon.in/dp/B09ZXGN3YY,"JUNEBERRY Crop Tops for Women, Half Sleeves Disney Stylish Cotton Tops for Women","Clothing & Accessories
+Net Quantity : 1.00 count",na,C_DCM2214_W_3XL,juneberry
+11,11,https://www.amazon.in/dp/B09ZXGN3YY,"JUNEBERRY Crop Tops for Women, Half Sleeves Disney Stylish Cotton Tops for Women","Clothing & Accessories
 ›
 Women
 ›
@@ -186,8 +186,8 @@ Department : Women
 Manufacturer : Awesomefab Shopping Private Limited, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Net Quantity : 1.00 count",na,C_DMF2205_SN_L
-12,https://www.amazon.in/dp/B0B6G465KS,"JUNEBERRY Crop Tops for Women, Official Disney Donald Duck & Mickey Mouse Printed Crop Shirts for Women, Half Sleeves Cotton Tops for Skirts for Women","Clothing & Accessories
+Net Quantity : 1.00 count",na,C_DMF2205_SN_L,juneberry
+12,12,https://www.amazon.in/dp/B0B6G465KS,"JUNEBERRY Crop Tops for Women, Official Disney Donald Duck & Mickey Mouse Printed Crop Shirts for Women, Half Sleeves Cotton Tops for Skirts for Women","Clothing & Accessories
 ›
 Women
 ›
@@ -205,8 +205,8 @@ Department : Women
 Manufacturer : Awesome Fab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Net Quantity : 1.00 count",na,C_DMF2221_RB_3XL
-13,https://www.amazon.in/dp/B09ZXWRPFD,JUNEBERRY® Disney Original Mickey’s Muse! Mickey Mouse Printed Half Sleeve Drop Shoulder Crop T-Shirt for Women/Girls,"Clothing & Accessories
+Net Quantity : 1.00 count",na,C_DMF2221_RB_3XL,juneberry
+13,13,https://www.amazon.in/dp/B09ZXWRPFD,JUNEBERRY® Disney Original Mickey’s Muse! Mickey Mouse Printed Half Sleeve Drop Shoulder Crop T-Shirt for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -223,8 +223,8 @@ Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Private Limited, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
-Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,C_DMK2225_W_L
-14,https://www.amazon.in/dp/B0B1N4X1YL,JUNEBERRY 100% Cotton Official Disney Donald Duck Printed White Half Sleeves Round Neck Regular Fit Crop Top for Women (C_DMK2226_W),"Clothing & Accessories
+Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,C_DMK2225_W_L,juneberry
+14,14,https://www.amazon.in/dp/B0B1N4X1YL,JUNEBERRY 100% Cotton Official Disney Donald Duck Printed White Half Sleeves Round Neck Regular Fit Crop Top for Women (C_DMK2226_W),"Clothing & Accessories
 ›
 Women
 ›
@@ -243,8 +243,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,C_DMK2226_W_3XL
-15,https://www.amazon.in/dp/B09XX99Y13,JUNEBERRY® Marvel Avenger Mech Strike Forever Half Sleeve Crop Top for Women/Girls,"Clothing & Accessories
+Generic Name : T-Shirt",na,C_DMK2226_W_3XL,juneberry
+15,15,https://www.amazon.in/dp/B09XX99Y13,JUNEBERRY® Marvel Avenger Mech Strike Forever Half Sleeve Crop Top for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -259,8 +259,8 @@ Item part number : C_MAV2231_W
 Country of Origin : India
 Department : Women
 Item Weight : 180 g
-Net Quantity : 1.00 count",na,C_MAV2231_W
-16,https://www.amazon.in/dp/B0B1N46MR4,JUNEBERRY® Disney Pew-Pew Perfect! I Feel fit Official Disney Mickey and Donald Printed Sleeveless T-Shirt for Women/Girls,"Clothing & Accessories
+Net Quantity : 1.00 count",na,C_MAV2231_W,juneberry
+16,16,https://www.amazon.in/dp/B0B1N46MR4,JUNEBERRY® Disney Pew-Pew Perfect! I Feel fit Official Disney Mickey and Donald Printed Sleeveless T-Shirt for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -277,8 +277,8 @@ Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
-Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,G4_DMD2209_YL_3XL
-17,https://www.amazon.in/dp/B0B3S1KNLZ,Veirdo Disney | Original Disney I Feel fit Mickey Mouse Printed Sleeveless Black Colour T-Shirt for Mens/Boys,"Clothing & Accessories
+Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,G4_DMD2209_YL_3XL,juneberry
+17,17,https://www.amazon.in/dp/B0B3S1KNLZ,Veirdo Disney | Original Disney I Feel fit Mickey Mouse Printed Sleeveless Black Colour T-Shirt for Mens/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -294,8 +294,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : Sleeveless Tshirt",na,G4_DMK3012_NB_L
-18,https://www.amazon.in/dp/B09XX525XN,JUNEBERRY® Marvel Captain America Plays Sleeveless T-Shirt for Women/Girls,"Clothing & Accessories
+Generic Name : Sleeveless Tshirt",na,G4_DMK3012_NB_L,veirdo
+18,18,https://www.amazon.in/dp/B09XX525XN,JUNEBERRY® Marvel Captain America Plays Sleeveless T-Shirt for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -310,8 +310,8 @@ Item part number : G4_MAV2236_W
 Country of Origin : India
 Department : Women
 Item Weight : 150 g
-Net Quantity : 1.00 count",na,G4_MAV2236_W
-19,https://www.amazon.in/dp/B09X7DP63Y,Veirdo Marvel Original Marvel Black Panther Wakanda Forever Printed Sleeveless T-Shirt for Men,"Clothing & Accessories
+Net Quantity : 1.00 count",na,G4_MAV2236_W,juneberry
+19,19,https://www.amazon.in/dp/B09X7DP63Y,Veirdo Marvel Original Marvel Black Panther Wakanda Forever Printed Sleeveless T-Shirt for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -327,8 +327,8 @@ Department : Men
 Manufacturer : Veirdo, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : Vest",na,G4_MBP3045_BL_L
-20,https://www.amazon.in/dp/B09X7C2H1D,Veirdo Marvel Captain America Original Marvel Captain Stylish Printed Sleeveless T-Shirt for Men Ice Blue,"Clothing & Accessories
+Generic Name : Vest",na,G4_MBP3045_BL_L,veirdo
+20,20,https://www.amazon.in/dp/B09X7C2H1D,Veirdo Marvel Captain America Original Marvel Captain Stylish Printed Sleeveless T-Shirt for Men Ice Blue,"Clothing & Accessories
 ›
 Men
 ›
@@ -344,8 +344,8 @@ Department : Men
 Manufacturer : Veirdo, Veirdo
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : Vest",na,G4_MCA3042_LB_L
-21,https://www.amazon.in/dp/B09X7D65HK,Veirdo Marvel Original Marvel Hulk Smash Printed Sleeveless T-Shirt for Men Black,"Clothing & Accessories
+Generic Name : Vest",na,G4_MCA3042_LB_L,veirdo
+21,21,https://www.amazon.in/dp/B09X7D65HK,Veirdo Marvel Original Marvel Hulk Smash Printed Sleeveless T-Shirt for Men Black,"Clothing & Accessories
 ›
 Men
 ›
@@ -361,8 +361,8 @@ Department : Men
 Manufacturer : Veirdo, Veirdo
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : Vest",na,G4_MH3050_BL_L
-22,https://www.amazon.in/dp/B09X79J2HN,Veirdo Marvel Original Marvel Iron Man Saving Earth Printed Sleeveless T-Shirt for Men Navy,"Clothing & Accessories
+Generic Name : Vest",na,G4_MH3050_BL_L,veirdo
+22,22,https://www.amazon.in/dp/B09X79J2HN,Veirdo Marvel Original Marvel Iron Man Saving Earth Printed Sleeveless T-Shirt for Men Navy,"Clothing & Accessories
 ›
 Men
 ›
@@ -378,8 +378,8 @@ Department : Men
 Manufacturer : Veirdo, Veirdo
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : Vest",na,G4_MIM3046_NB_L
-23,https://www.amazon.in/dp/B09X7D3SY5,Veirdo Marvel Original Marvel Spidey Forever Spider Man Printed Sleeveless T-Shirt for Men White,"Clothing & Accessories
+Generic Name : Vest",na,G4_MIM3046_NB_L,veirdo
+23,23,https://www.amazon.in/dp/B09X7D3SY5,Veirdo Marvel Original Marvel Spidey Forever Spider Man Printed Sleeveless T-Shirt for Men White,"Clothing & Accessories
 ›
 Men
 ›
@@ -395,8 +395,8 @@ Department : Men
 Manufacturer : Veirdo, Veirdo
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : Vest",na,G4_MSM3040_W_L
-24,https://www.amazon.in/dp/B09XXLN7N6,JUNEBERRY® Star Wars Forever Sleeveless Regular Fit T-Shirt for Women/Girls,"Clothing & Accessories
+Generic Name : Vest",na,G4_MSM3040_W_L,veirdo
+24,24,https://www.amazon.in/dp/B09XXLN7N6,JUNEBERRY® Star Wars Forever Sleeveless Regular Fit T-Shirt for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -411,8 +411,8 @@ Item part number : G4_SW2233_LB_L
 Country of Origin : India
 Department : Women
 Item Weight : 250 g
-Net Quantity : 1.00 count",na,G4_SW2233_LB_L
-25,https://www.amazon.in/dp/B09X7DQHKW,Veirdo Marvel Original Starwars I got Power Printed Sleeveless T-Shirt for Men White,"Clothing & Accessories
+Net Quantity : 1.00 count",na,G4_SW2233_LB_L,juneberry
+25,25,https://www.amazon.in/dp/B09X7DQHKW,Veirdo Marvel Original Starwars I got Power Printed Sleeveless T-Shirt for Men White,"Clothing & Accessories
 ›
 Men
 ›
@@ -428,8 +428,8 @@ Department : Men
 Manufacturer : Veirdo, Veirdo
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : Vest",na,G4_SW3054_RBW_L
-26,https://www.amazon.in/dp/B09X2TTD3Z,Veirdo Disney Donald Duck Classic Oh-No Official Disney Printed Sleeveless T-Shirt for Men Red,"Clothing & Accessories
+Generic Name : Vest",na,G4_SW3054_RBW_L,veirdo
+26,26,https://www.amazon.in/dp/B09X2TTD3Z,Veirdo Disney Donald Duck Classic Oh-No Official Disney Printed Sleeveless T-Shirt for Men Red,"Clothing & Accessories
 ›
 Men
 ›
@@ -445,15 +445,15 @@ Department : Men
 Manufacturer : Veirdo, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : Vest",na,G5_DDK3015_RED_L
-27,https://www.amazon.in/dp/B0B2LZC2CW,Veirdo Disney | Mickey on The Run| Original Disney Mickey Beats Blues Printed Sleeveless Royal Blue Colour T-Shirt for Mens/Boys,na,479,₹999,Sold by AWESOMEFAB SHOPPING PRIVATE LIMITED and Fulfilled by Amazon.,"Package Dimensions : 25 x 22 x 2.5 cm; 180 Grams
+Generic Name : Vest",na,G5_DDK3015_RED_L,veirdo
+27,27,https://www.amazon.in/dp/B0B2LZC2CW,Veirdo Disney | Mickey on The Run| Original Disney Mickey Beats Blues Printed Sleeveless Royal Blue Colour T-Shirt for Mens/Boys,na,479,₹999,Sold by AWESOMEFAB SHOPPING PRIVATE LIMITED and Fulfilled by Amazon.,"Package Dimensions : 25 x 22 x 2.5 cm; 180 Grams
 Date First Available : 28 May 2022
 ASIN : B0B2LZC2CW
 Item part number : G5_DMK_3010_RB_3XL
 Country of Origin : India
 Department : Men
-Item Weight : 180 g",na,G5_DMK_3010_RB_3XL
-28,https://www.amazon.in/dp/B0B4GF39NX,"Veirdo Gym Vests for Men Workout, Sleveless T-Tops for Men, Sandow Vests for Men, Sleveless Men's T-Shirt, Stylish Printed Sando for Men, Cotton Sleeveless Tshirt for Men","Clothing & Accessories
+Item Weight : 180 g",na,G5_DMK_3010_RB_3XL,veirdo
+28,28,https://www.amazon.in/dp/B0B4GF39NX,"Veirdo Gym Vests for Men Workout, Sleveless T-Tops for Men, Sandow Vests for Men, Sleveless Men's T-Shirt, Stylish Printed Sando for Men, Cotton Sleeveless Tshirt for Men","Clothing & Accessories
 ›
 Men
 ›
@@ -463,8 +463,8 @@ T-Shirts",299,₹999,Sold by AWESOMEFAB SHOPPING PRIVATE LIMITED and Fulfilled b
 ASIN : B0B4GF39NX
 Item part number : G7_MT_GORR_BLK_P
 Country of Origin : India
-Department : Men",na,G7_MT_GORR_BLK_P
-29,https://www.amazon.in/dp/B0B4GH246G,"Veirdo Gym Vests for Men Workout, Sleveless T-Tops for Men, Sandow Vests for Men, Sleveless Men's T-Shirt, Stylish Printed Sando for Men, Cotton Sleeveless Tshirt for Men","Clothing & Accessories
+Department : Men",na,G7_MT_GORR_BLK_P,veirdo
+29,29,https://www.amazon.in/dp/B0B4GH246G,"Veirdo Gym Vests for Men Workout, Sleveless T-Tops for Men, Sandow Vests for Men, Sleveless Men's T-Shirt, Stylish Printed Sando for Men, Cotton Sleeveless Tshirt for Men","Clothing & Accessories
 ›
 Men
 ›
@@ -474,8 +474,8 @@ T-Shirts",299,₹999,Sold by AWESOMEFAB SHOPPING PRIVATE LIMITED and Fulfilled b
 ASIN : B0B4GH246G
 Item part number : G7_MT_GORR_BLK_P
 Country of Origin : India
-Department : Men",na,G7_MT_GORR_BLK_P
-30,https://www.amazon.in/dp/B0B4GF9YP7,"Veirdo Gym Vests for Men Workout, Sleveless T-Tops for Men, Sandow Vests for Men, Sleveless Men's T-Shirt, Stylish Printed Sando for Men, Cotton Sleeveless Tshirt for Men","Clothing & Accessories
+Department : Men",na,G7_MT_GORR_BLK_P,veirdo
+30,30,https://www.amazon.in/dp/B0B4GF9YP7,"Veirdo Gym Vests for Men Workout, Sleveless T-Tops for Men, Sandow Vests for Men, Sleveless Men's T-Shirt, Stylish Printed Sando for Men, Cotton Sleeveless Tshirt for Men","Clothing & Accessories
 ›
 Men
 ›
@@ -486,8 +486,8 @@ ASIN : B0B4GF9YP7
 Item part number : G7_MT_GORR_BLK_P
 Country of Origin : India
 Department : Men
-Included Components : Sandow",na,G7_MT_GORR_BLK_P
-31,https://www.amazon.in/dp/B0B4GDVKW2,"Veirdo Gym Vests for Men Workout, Sleveless T-Tops for Men, Sandow Vests for Men, Sleveless Men's T-Shirt, Stylish Printed Sando for Men, Cotton Sleeveless Tshirt for Men","Clothing & Accessories
+Included Components : Sandow",na,G7_MT_GORR_BLK_P,veirdo
+31,31,https://www.amazon.in/dp/B0B4GDVKW2,"Veirdo Gym Vests for Men Workout, Sleveless T-Tops for Men, Sandow Vests for Men, Sleveless Men's T-Shirt, Stylish Printed Sando for Men, Cotton Sleeveless Tshirt for Men","Clothing & Accessories
 ›
 Men
 ›
@@ -497,8 +497,8 @@ T-Shirts",299,₹999,Sold by AWESOMEFAB SHOPPING PRIVATE LIMITED and Fulfilled b
 ASIN : B0B4GDVKW2
 Item part number : G7_MT_GORR_BLK_P
 Country of Origin : India
-Department : Men",na,G7_MT_GORR_BLK_P
-32,https://www.amazon.in/dp/B0BJ2PRW8G,JUNEBERRY Cotton Blend Regular Fit Half Sleeves Round Neck Tie & Dye T-Shirt for Women,"Clothing & Accessories
+Department : Men",na,G7_MT_GORR_BLK_P,veirdo
+32,32,https://www.amazon.in/dp/B0BJ2PRW8G,JUNEBERRY Cotton Blend Regular Fit Half Sleeves Round Neck Tie & Dye T-Shirt for Women,"Clothing & Accessories
 ›
 Women
 ›
@@ -514,8 +514,8 @@ Item part number : JB_55_TDBROWN_L
 Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 200 g",na,JB_55_TDBROWN_L
-33,https://www.amazon.in/dp/B0BJ2PS7VS,JUNEBERRY Cotton Blend Regular Fit Half Sleeves Round Neck Tie & Dye T-Shirt for Women,"Clothing & Accessories
+Item Weight : 200 g",na,JB_55_TDBROWN_L,juneberry
+33,33,https://www.amazon.in/dp/B0BJ2PS7VS,JUNEBERRY Cotton Blend Regular Fit Half Sleeves Round Neck Tie & Dye T-Shirt for Women,"Clothing & Accessories
 ›
 Women
 ›
@@ -531,26 +531,8 @@ Item part number : JB_55_TDMAROON_3XL
 Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 180 g",na,JB_55_TDMAROON_3XL
-34,https://www.amazon.in/dp/B09RB9DS4P,JUNEBERRY Women's Casual Round Neck Short Sleeves T-Shirt and Yellow Camo Printed Joggers Track Pant,"Clothing & Accessories
-›
-Women
-›
-Western Wear
-›
-Tops, T-Shirts & Shirts
-›
-T-Shirts",699,"₹1,594",Sold by AWESOMEFAB SHOPPING PRIVATE LIMITED and Fulfilled by Amazon.,"Package Dimensions : 27 x 25 x 2.5 cm; 50 Grams
-Date First Available : 27 January 2022
-Manufacturer : Veirdo
-ASIN : B09RB9DS4P
-Item model number : Yellow co-ords
-Country of Origin : India
-Department : Women
-Manufacturer : Veirdo
-Item Weight : 50 g
-Net Quantity : 1.00 count",na,Yellow co-ords
-35,https://www.amazon.in/dp/B0BP7SH734,Veirdo Pure Cotton Oversized Loose Baggy Fit Drop Shoulder Round Neck Lilac Color Half Sleeve Cool Smiley Graphic Printed Unisex T-Shirt for Men & Women,"Clothing & Accessories
+Item Weight : 180 g",na,JB_55_TDMAROON_3XL,juneberry
+35,35,https://www.amazon.in/dp/B0BP7SH734,Veirdo Pure Cotton Oversized Loose Baggy Fit Drop Shoulder Round Neck Lilac Color Half Sleeve Cool Smiley Graphic Printed Unisex T-Shirt for Men & Women,"Clothing & Accessories
 ›
 Men
 ›
@@ -564,8 +546,8 @@ Item part number : OS_100_SMILE_BLK_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 300 g",na,OS_100_SMILE_BLK_L
-36,https://www.amazon.in/dp/B0B3Y52SBD,Veirdo Disney | Original Disney I I Feel Goofy - Faces | The Goofy Tee Printed Over Size | Loose Fit Rust Colour T-Shirt for Mens/Boys,"Clothing & Accessories
+Item Weight : 300 g",na,OS_100_SMILE_BLK_L,veirdo
+36,36,https://www.amazon.in/dp/B0B3Y52SBD,Veirdo Disney | Original Disney I I Feel Goofy - Faces | The Goofy Tee Printed Over Size | Loose Fit Rust Colour T-Shirt for Mens/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -581,8 +563,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Private Limited
 Item Weight : 250 g
 Item Dimensions LxWxH : 27 x 25 x 2.5 Centimeters
-Net Quantity : 1.00 count",na,OS_DDK3016_O_L
-37,https://www.amazon.in/dp/B0B2LX4735,Veirdo Disney | Original Disney I I Feel Goofy - Faces | The Goofy Tee Printed Over Size | Loose Fit Rust Colour T-Shirt for Mens/Boys,"Clothing & Accessories
+Net Quantity : 1.00 count",na,OS_DDK3016_O_L,veirdo
+37,37,https://www.amazon.in/dp/B0B2LX4735,Veirdo Disney | Original Disney I I Feel Goofy - Faces | The Goofy Tee Printed Over Size | Loose Fit Rust Colour T-Shirt for Mens/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -594,8 +576,8 @@ ASIN : B0B2LX4735
 Item part number : OS_DDK3016_O_P
 Country of Origin : India
 Department : Men
-Item Weight : 220 g",na,OS_DDK3016_O_P
-38,https://www.amazon.in/dp/B0B3S45QLB,Veirdo Original Disney Pure Cotton Oversize Loose Baggy Fit Drop Shoulder Round Neck Half Sleeves Red Pixar Cars Printed T-Shirt for Men & Boys (OS_DPX3055_R),"Clothing & Accessories
+Item Weight : 220 g",na,OS_DDK3016_O_P,veirdo
+38,38,https://www.amazon.in/dp/B0B3S45QLB,Veirdo Original Disney Pure Cotton Oversize Loose Baggy Fit Drop Shoulder Round Neck Half Sleeves Red Pixar Cars Printed T-Shirt for Men & Boys (OS_DPX3055_R),"Clothing & Accessories
 ›
 Men
 ›
@@ -612,8 +594,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, https://veirdo.in/pages/contact-us
 Item Weight : 210 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : Over sized Drop Shoulder T-Shirt",na,OS_DPX3055_R_L
-39,https://www.amazon.in/dp/B0B4PHTGFH,Veirdo Pure Cotton Oversize Drop Shoulder Loose Fit Round Neck Cool Stylish Latest Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Generic Name : Over sized Drop Shoulder T-Shirt",na,OS_DPX3055_R_L,veirdo
+39,39,https://www.amazon.in/dp/B0B4PHTGFH,Veirdo Pure Cotton Oversize Drop Shoulder Loose Fit Round Neck Cool Stylish Latest Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -631,8 +613,8 @@ Item Weight : 230 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
 Included Components : T shirt
-Generic Name : Drop Shoulder Loose Fit T-Shirt",na,OS_INTEGRITY_784_BL_L
-40,https://www.amazon.in/dp/B0BJ2QM8SM,JUNEBERRY Cotton Blend Oversized Loose Baggy Fit Half Sleeves Round Neck Green Tie & Dye T-Shirt for Women,"Clothing & Accessories
+Generic Name : Drop Shoulder Loose Fit T-Shirt",na,OS_INTEGRITY_784_BL_L,veirdo
+40,40,https://www.amazon.in/dp/B0BJ2QM8SM,JUNEBERRY Cotton Blend Oversized Loose Baggy Fit Half Sleeves Round Neck Green Tie & Dye T-Shirt for Women,"Clothing & Accessories
 ›
 Women
 ›
@@ -648,8 +630,8 @@ Item part number : OS_JB_100_TDGREEN_L
 Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 200 g",na,OS_JB_100_TDGREEN_L
-41,https://www.amazon.in/dp/B0B3JM3K5Y,"Veirdo Original Marvel Avengers Typography Printed Oversized T Shirts for Men, Half Sleeves Baggy T Shirts for Men, Drop Shoulder Cotton Loose T Shirts for Men & Boys","Clothing & Accessories
+Item Weight : 200 g",na,OS_JB_100_TDGREEN_L,juneberry
+41,41,https://www.amazon.in/dp/B0B3JM3K5Y,"Veirdo Original Marvel Avengers Typography Printed Oversized T Shirts for Men, Half Sleeves Baggy T Shirts for Men, Drop Shoulder Cotton Loose T Shirts for Men & Boys","Clothing & Accessories
 ›
 Men
 ›
@@ -666,8 +648,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 190 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : Oversize",na,OS_MAV3056_WR_L
-42,https://www.amazon.in/dp/B09XXS8H6Z,Veirdo Marvel Rebirth- Original Marvel Captain America Printed Oversize Half Sleeves T-Shirt for Men White Red Navy,"Clothing & Accessories
+Generic Name : Oversize",na,OS_MAV3056_WR_L,veirdo
+42,42,https://www.amazon.in/dp/B09XXS8H6Z,Veirdo Marvel Rebirth- Original Marvel Captain America Printed Oversize Half Sleeves T-Shirt for Men White Red Navy,"Clothing & Accessories
 ›
 Men
 ›
@@ -684,8 +666,8 @@ Manufacturer : VEIRDO, Awesomefab Shopping Private Limited
 Item Weight : 240 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : Oversize",na,OS_MCA3032_W_L
-43,https://www.amazon.in/dp/B09XXR1K8Y,Veirdo Marvel Spider Power -Original Marvel Printed Oversize Half Sleeves T-Shirt for Men Black Red,"Clothing & Accessories
+Generic Name : Oversize",na,OS_MCA3032_W_L,veirdo
+43,43,https://www.amazon.in/dp/B09XXR1K8Y,Veirdo Marvel Spider Power -Original Marvel Printed Oversize Half Sleeves T-Shirt for Men Black Red,"Clothing & Accessories
 ›
 Men
 ›
@@ -702,8 +684,8 @@ Manufacturer : VEIRDO, Awesomefab Shopping Private Limited
 Item Weight : 240 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : Oversize",na,OS_MSM3022_BL_L
-44,https://www.amazon.in/dp/B0BG2SCPYR,"Veirdo Oversize, Loose Fit, Drop Shoulder, Baggy Fit, Round Neck Skellaton Printed T-Shirt for Men/Boys","Clothing & Accessories
+Generic Name : Oversize",na,OS_MSM3022_BL_L,veirdo
+44,44,https://www.amazon.in/dp/B0BG2SCPYR,"Veirdo Oversize, Loose Fit, Drop Shoulder, Baggy Fit, Round Neck Skellaton Printed T-Shirt for Men/Boys","Clothing & Accessories
 ›
 Men
 ›
@@ -717,8 +699,8 @@ Item part number : OS_SKELETON_787_BL_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 200 g",na,OS_SKELETON_787_BL_L
-45,https://www.amazon.in/dp/B0BF5MB9WB,"Veirdo Oversize, Loose Fit, Drop Shoulder, Baggy Fit, Round Neck Skellaton Printed T-Shirt for Men/Boys","Clothing & Accessories
+Item Weight : 200 g",na,OS_SKELETON_787_BL_L,veirdo
+45,45,https://www.amazon.in/dp/B0BF5MB9WB,"Veirdo Oversize, Loose Fit, Drop Shoulder, Baggy Fit, Round Neck Skellaton Printed T-Shirt for Men/Boys","Clothing & Accessories
 ›
 Men
 ›
@@ -732,8 +714,8 @@ Item part number : OS_SKELETON_787_LLC_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 200 g",na,OS_SKELETON_787_LLC_L
-46,https://www.amazon.in/dp/B0BF5M8VDL,"Veirdo Oversize, Loose Fit, Drop Shoulder, Baggy Fit, Round Neck Skellaton Printed T-Shirt for Men/Boys","Clothing & Accessories
+Item Weight : 200 g",na,OS_SKELETON_787_LLC_L,veirdo
+46,46,https://www.amazon.in/dp/B0BF5M8VDL,"Veirdo Oversize, Loose Fit, Drop Shoulder, Baggy Fit, Round Neck Skellaton Printed T-Shirt for Men/Boys","Clothing & Accessories
 ›
 Men
 ›
@@ -747,8 +729,8 @@ Item part number : OS_SKELETON_787_OL_L
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 200 g",na,OS_SKELETON_787_OL_L
-47,https://www.amazon.in/dp/B0B2LZS8KN,"Veirdo Official Disney Printed Oversized T Shirts for Men, Half Sleeves Baggy Tshirt for Men, Cotton Loose Fit T Shirts for Men & Boys, Drop Shoulder Tshirt for Men","Clothing & Accessories
+Item Weight : 200 g",na,OS_SKELETON_787_OL_L,veirdo
+47,47,https://www.amazon.in/dp/B0B2LZS8KN,"Veirdo Official Disney Printed Oversized T Shirts for Men, Half Sleeves Baggy Tshirt for Men, Cotton Loose Fit T Shirts for Men & Boys, Drop Shoulder Tshirt for Men","Clothing & Accessories
 ›
 Men
 ›
@@ -765,8 +747,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, https://veirdo.in/pages/contact-us
 Item Weight : 190 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : Drop Shoulder Oversized T-Shirt",na,OS_ST3008_TD_L
-48,https://www.amazon.in/dp/B09XXSJMG4,"Veirdo Drop Shoulder Tshirt for Men, Official Star Wars Black Loose T Shirts for Men, Half Sleeves Baggy T Shirts for Men, Printed Cotton Oversized T Shirts for Men","Clothing & Accessories
+Generic Name : Drop Shoulder Oversized T-Shirt",na,OS_ST3008_TD_L,veirdo
+48,48,https://www.amazon.in/dp/B09XXSJMG4,"Veirdo Drop Shoulder Tshirt for Men, Official Star Wars Black Loose T Shirts for Men, Half Sleeves Baggy T Shirts for Men, Printed Cotton Oversized T Shirts for Men","Clothing & Accessories
 ›
 Men
 ›
@@ -783,8 +765,8 @@ Manufacturer : VEIRDO, Awesomefab Shopping Private Limited
 Item Weight : 220 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : Drop Shoulder Oversize T-Shirt",na,OS_SW3019_BL_L
-49,https://www.amazon.in/dp/B0B5Y2MLP3,Veirdo Marvel Star Wars Original Boba Fett All Over Print 100% Cotton Half Sleeve Round Neck | Oversized | Loose Fit | Relaxed Fit | Wide Fit | T-Shirt for Mens/Boys,"Clothing & Accessories
+Generic Name : Drop Shoulder Oversize T-Shirt",na,OS_SW3019_BL_L,veirdo
+49,49,https://www.amazon.in/dp/B0B5Y2MLP3,Veirdo Marvel Star Wars Original Boba Fett All Over Print 100% Cotton Half Sleeve Round Neck | Oversized | Loose Fit | Relaxed Fit | Wide Fit | T-Shirt for Mens/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -801,8 +783,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,OS_SWBF3058_AOP_L
-50,https://www.amazon.in/dp/B0BDF5QCVS,Veirdo Pure Cotton Oversize Drop Shoulder Loose Fit Round Neck Cool Stylish Latest Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
+Generic Name : T-Shirt",na,OS_SWBF3058_AOP_L,veirdo
+50,50,https://www.amazon.in/dp/B0BDF5QCVS,Veirdo Pure Cotton Oversize Drop Shoulder Loose Fit Round Neck Cool Stylish Latest Graphic Printed T-Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -817,8 +799,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Item Weight : 210 g
-Net Quantity : 1.00 count",na,OS_TIGER_783_BL_L
-51,https://www.amazon.in/dp/B097TMXJZZ,JUNEBERRY Women's Cotton T-Shirt Knee Length T-Dress,"Clothing & Accessories
+Net Quantity : 1.00 count",na,OS_TIGER_783_BL_L,veirdo
+51,51,https://www.amazon.in/dp/B097TMXJZZ,JUNEBERRY Women's Cotton T-Shirt Knee Length T-Dress,"Clothing & Accessories
 ›
 Women
 ›
@@ -834,8 +816,8 @@ Item part number : P-87_303_T_HPN_L
 Country of Origin : India
 Department : Women
 Manufacturer : Veirdo
-Item Weight : 250 g",na,P-87_303_T_HPN_L
-52,https://www.amazon.in/dp/B09P1NKCQM,"Veirdo Men's Quilted Puffer Winter Jackets for Men, Solid Color Jacket for Men","Clothing & Accessories
+Item Weight : 250 g",na,P-87_303_T_HPN_L,juneberry
+52,52,https://www.amazon.in/dp/B09P1NKCQM,"Veirdo Men's Quilted Puffer Winter Jackets for Men, Solid Color Jacket for Men","Clothing & Accessories
 ›
 Men
 ›
@@ -851,8 +833,8 @@ Item part number : PUFF_SL_97_YELLOW_L
 Country of Origin : India
 Department : Men
 Manufacturer : Veirdo, Veirdo
-Item Weight : 450 g",na,PUFF_SL_97_YELLOW_L
-53,https://www.amazon.in/dp/B0B6BYQH4L,"Veirdo Mens Half Sleeve Polo T Shirts for Men, Men's Slim Fit Polo T-Shirt","Clothing & Accessories
+Item Weight : 450 g",na,PUFF_SL_97_YELLOW_L,veirdo
+53,53,https://www.amazon.in/dp/B0B6BYQH4L,"Veirdo Mens Half Sleeve Polo T Shirts for Men, Men's Slim Fit Polo T-Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -868,8 +850,8 @@ Department : Men
 Manufacturer : Awesome Fab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 25 x 27 x 2 Centimeters
-Net Quantity : 1.00 count",na,P_BOX_402_N_3XL
-54,https://www.amazon.in/dp/B09ZXT3D8Y,JUNEBERRY® Disney Goofy Inside- Official Disney Goofy Printed Half Sleeve Tee Dress|T-Dress for Women/Girls,"Clothing & Accessories
+Net Quantity : 1.00 count",na,P_BOX_402_N_3XL,veirdo
+54,54,https://www.amazon.in/dp/B09ZXT3D8Y,JUNEBERRY® Disney Goofy Inside- Official Disney Goofy Printed Half Sleeve Tee Dress|T-Dress for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -886,8 +868,8 @@ Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Private Limited, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
-Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,P_DGF2211_W_3XL
-55,https://www.amazon.in/dp/B0B3TR92N4,JUNEBERRY® Disney Official | I Feel Happy - Candies | Happy Mouse Printed Half Sleeve T-Dress in Red Colour for Women/Girls,"Clothing & Accessories
+Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,P_DGF2211_W_3XL,juneberry
+55,55,https://www.amazon.in/dp/B0B3TR92N4,JUNEBERRY® Disney Official | I Feel Happy - Candies | Happy Mouse Printed Half Sleeve T-Dress in Red Colour for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -904,8 +886,8 @@ Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 300 g
-Item Dimensions LxWxH : 27 x 25 x 2.5 Centimeters",na,P_DMK2206_R_L
-56,https://www.amazon.in/dp/B09ZXWBRMF,JUNEBERRY® Disney Mickey Dress Disney Printed Half Sleeve Tee Dress |T-Dress for Women/Girls,"Clothing & Accessories
+Item Dimensions LxWxH : 27 x 25 x 2.5 Centimeters",na,P_DMK2206_R_L,juneberry
+56,56,https://www.amazon.in/dp/B09ZXWBRMF,JUNEBERRY® Disney Mickey Dress Disney Printed Half Sleeve Tee Dress |T-Dress for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -922,8 +904,8 @@ Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Private Limited, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
-Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,P_DMK2210_W_L
-57,https://www.amazon.in/dp/B09XX7PHZS,JUNEBERRY® Marvel Captain America Printed Half Sleeve Knee Length T-Shirt for Women/Girls,"Clothing & Accessories
+Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,P_DMK2210_W_L,juneberry
+57,57,https://www.amazon.in/dp/B09XX7PHZS,JUNEBERRY® Marvel Captain America Printed Half Sleeve Knee Length T-Shirt for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -938,8 +920,8 @@ Item part number : P_MCA2230_W
 Country of Origin : India
 Department : Women
 Item Weight : 220 g
-Net Quantity : 1.00 count",na,P_MCA2230_W
-58,https://www.amazon.in/dp/B0BDRD4YMH,Veirdo Printed Half Sleeve Olive Regular Fit Tshirt for Men,"Clothing & Accessories
+Net Quantity : 1.00 count",na,P_MCA2230_W,juneberry
+58,58,https://www.amazon.in/dp/B0BDRD4YMH,Veirdo Printed Half Sleeve Olive Regular Fit Tshirt for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -954,8 +936,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
-Net Quantity : 2.00 count",na,P_SUPERIOR_400_OL_L
-59,https://www.amazon.in/dp/B0B41XD126,"JUNEBERRY Night Suits for Women, Night Dresses for Women, Night Wear for Women, Co ord Set for Women, Coord Sets for Women Stylish, Cotton Night Suit Set for Women","Clothing & Accessories
+Net Quantity : 2.00 count",na,P_SUPERIOR_400_OL_L,veirdo
+59,59,https://www.amazon.in/dp/B0B41XD126,"JUNEBERRY Night Suits for Women, Night Dresses for Women, Night Wear for Women, Co ord Set for Women, Coord Sets for Women Stylish, Cotton Night Suit Set for Women","Clothing & Accessories
 ›
 Women
 ›
@@ -969,8 +951,8 @@ Country of Origin : India
 Department : Women
 Item Weight : 250 g
 Item Dimensions LxWxH : 27 x 25 x 6.4 Centimeters
-Net Quantity : 2.00 count",na,SLP_CORDS_2001_M
-60,https://www.amazon.in/dp/B0B88FTK62,Juneberry® Women's Polyester U Neck Sleeveless Printed Active Wear Tracksuit,"Clothing & Accessories
+Net Quantity : 2.00 count",na,SLP_CORDS_2001_M,juneberry
+60,60,https://www.amazon.in/dp/B0B88FTK62,Juneberry® Women's Polyester U Neck Sleeveless Printed Active Wear Tracksuit,"Clothing & Accessories
 ›
 Women
 ›
@@ -986,8 +968,8 @@ Item model number : TB_TD_2003_BR_3XL
 Country of Origin : India
 Department : Women
 Manufacturer : Awesome Fab Shopping Pvt Ltd
-Item Weight : 400 g",na,TB_TD_2003_BR_3XL
-61,https://www.amazon.in/dp/B09X5DT3KV,"JUNEBERRY Black Tshirt for Women, Official Disney Animal Printed Black T Shirt for Women, Casual Half Sleeves Cotton Black T-Shirt for Women, Stylish Black Tops for Women","Clothing & Accessories
+Item Weight : 400 g",na,TB_TD_2003_BR_3XL,juneberry
+61,61,https://www.amazon.in/dp/B09X5DT3KV,"JUNEBERRY Black Tshirt for Women, Official Disney Animal Printed Black T Shirt for Women, Casual Half Sleeves Cotton Black T-Shirt for Women, Stylish Black Tops for Women","Clothing & Accessories
 ›
 Women
 ›
@@ -1003,8 +985,8 @@ Country of Origin : India
 Department : Women
 Item Weight : 150 g
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,T_DBM2218_BL_L
-62,https://www.amazon.in/dp/B0B1N5RGGS,"JUNEBERRY 100% Cotton Tshirt for Women, Official Disney Donald Mickey Mouse Printed Purple Round Neck Half Sleeve Regular Fit for Women (T_DMF2222_SN)","Clothing & Accessories
+Generic Name : T-Shirt",na,T_DBM2218_BL_L,juneberry
+62,62,https://www.amazon.in/dp/B0B1N5RGGS,"JUNEBERRY 100% Cotton Tshirt for Women, Official Disney Donald Mickey Mouse Printed Purple Round Neck Half Sleeve Regular Fit for Women (T_DMF2222_SN)","Clothing & Accessories
 ›
 Women
 ›
@@ -1023,8 +1005,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,T_DMF2222_SN_M
-63,https://www.amazon.in/dp/B09ZXR4K7K,"JUNEBERRY Black Tshirt for Women, Official Disney Donald Duck Printed Half Sleeves Plain Black Tshirt for Women, Cotton T Shirt for Girls, Black Tops for Women","Clothing & Accessories
+Generic Name : T-Shirt",na,T_DMF2222_SN_M,juneberry
+63,63,https://www.amazon.in/dp/B09ZXR4K7K,"JUNEBERRY Black Tshirt for Women, Official Disney Donald Duck Printed Half Sleeves Plain Black Tshirt for Women, Cotton T Shirt for Girls, Black Tops for Women","Clothing & Accessories
 ›
 Women
 ›
@@ -1043,8 +1025,8 @@ Manufacturer : Awesomefab Shopping Private Limited, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,C_DMK2226_W_3XL
-64,https://www.amazon.in/dp/B09X2SRNVK,Veirdo Disney OG Mickey Official Disney Printed Halfsleeves Regular Fit T-Shirt for Men White,"Clothing & Accessories
+Generic Name : T-Shirt",na,C_DMK2226_W_3XL,juneberry
+64,64,https://www.amazon.in/dp/B09X2SRNVK,Veirdo Disney OG Mickey Official Disney Printed Halfsleeves Regular Fit T-Shirt for Men White,"Clothing & Accessories
 ›
 Men
 ›
@@ -1056,8 +1038,8 @@ ASIN : B09X2SRNVK
 Item part number : T_DMK3002_W_M
 Country of Origin : India
 Department : Men
-Item Weight : 200 g",na,T_DMK3002_W_M
-65,https://www.amazon.in/dp/B0B1N48QQM,"JUNEBERRY Women Tshirt, Official Disney Typography Minnie Mouse Printed Cotton Tops for Women","Clothing & Accessories
+Item Weight : 200 g",na,T_DMK3002_W_M,veirdo
+65,65,https://www.amazon.in/dp/B0B1N48QQM,"JUNEBERRY Women Tshirt, Official Disney Typography Minnie Mouse Printed Cotton Tops for Women","Clothing & Accessories
 ›
 Women
 ›
@@ -1076,8 +1058,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,T_DMN2204_W_L
-66,https://www.amazon.in/dp/B09XXZ5L24,"Veirdo Original Marvel Printed T Shirt for Men, Tshirts for Male, Marvel Printed Shirts for Men, Casual Shirts for Men, Marvel Half Shirt for Men","Clothing & Accessories
+Generic Name : T-Shirt",na,T_DMN2204_W_L,juneberry
+66,66,https://www.amazon.in/dp/B09XXZ5L24,"Veirdo Original Marvel Printed T Shirt for Men, Tshirts for Male, Marvel Printed Shirts for Men, Casual Shirts for Men, Marvel Half Shirt for Men","Clothing & Accessories
 ›
 Men
 ›
@@ -1094,8 +1076,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 210 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,T_MAOP3021_BL_L
-67,https://www.amazon.in/dp/B09XY13Z6F,Veirdo Marvel Avengers Printed Original Half Sleeves T-Shirt for Men Light Blue,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MAOP3021_BL_L,veirdo
+67,67,https://www.amazon.in/dp/B09XY13Z6F,Veirdo Marvel Avengers Printed Original Half Sleeves T-Shirt for Men Light Blue,"Clothing & Accessories
 ›
 Men
 ›
@@ -1111,8 +1093,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : T-Shirt",na,T_MAV3023_SB_M
-68,https://www.amazon.in/dp/B09XXQRRML,Veirdo Marvel Black Panther Printed Original Half Sleeves Regular Fit T-Shirt for Men,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MAV3023_SB_M,veirdo
+68,68,https://www.amazon.in/dp/B09XXQRRML,Veirdo Marvel Black Panther Printed Original Half Sleeves Regular Fit T-Shirt for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -1128,8 +1110,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : T-Shirt",na,T_MBP3048_BL_S
-69,https://www.amazon.in/dp/B09XY1XNW8,Veirdo Marvel Black Panther Printed Original Half Sleeves T-Shirt for Men,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MBP3048_BL_S,veirdo
+69,69,https://www.amazon.in/dp/B09XY1XNW8,Veirdo Marvel Black Panther Printed Original Half Sleeves T-Shirt for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -1145,8 +1127,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : T-Shirt",na,T_MBP3051_BL_M
-70,https://www.amazon.in/dp/B09XX7LB5C,JUNEBERRY® Marvel Captain America Fans Half Sleeve T-Shirt for Women/Girls,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MBP3051_BL_M,veirdo
+70,70,https://www.amazon.in/dp/B09XX7LB5C,JUNEBERRY® Marvel Captain America Fans Half Sleeve T-Shirt for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -1161,8 +1143,8 @@ Item part number : T_MCA2232_NB
 Country of Origin : India
 Department : Women
 Item Weight : 200 g
-Net Quantity : 1.00 count",na,T_MCA2232_NB
-71,https://www.amazon.in/dp/B09YYSQJFV,Veirdo Marvel Captain America Shines Original Marvel Printed Regular Fit Half Sleeves T-Shirt for Men,"Clothing & Accessories
+Net Quantity : 1.00 count",na,T_MCA2232_NB,juneberry
+71,71,https://www.amazon.in/dp/B09YYSQJFV,Veirdo Marvel Captain America Shines Original Marvel Printed Regular Fit Half Sleeves T-Shirt for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -1178,8 +1160,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : T-Shirt",na,T_MCA3024_BL_L
-72,https://www.amazon.in/dp/B0B3S56QX1,Veirdo 100% Cotton Original Marvel Captain America Half Sleeve Round Neck Regular Fit White Typography Print T-Shirt for Men & Boys (T_MCA3028_W),"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MCA3024_BL_L,veirdo
+72,72,https://www.amazon.in/dp/B0B3S56QX1,Veirdo 100% Cotton Original Marvel Captain America Half Sleeve Round Neck Regular Fit White Typography Print T-Shirt for Men & Boys (T_MCA3028_W),"Clothing & Accessories
 ›
 Men
 ›
@@ -1196,8 +1178,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.0 count
-Generic Name : Tshirt",na,T_MCA3028_W_M
-73,https://www.amazon.in/dp/B09XY1Y78X,Veirdo Marvel Captain America Mania Printed Original Half Sleeves T-Shirt for Men Black Red,"Clothing & Accessories
+Generic Name : Tshirt",na,T_MCA3028_W_M,veirdo
+73,73,https://www.amazon.in/dp/B09XY1Y78X,Veirdo Marvel Captain America Mania Printed Original Half Sleeves T-Shirt for Men Black Red,"Clothing & Accessories
 ›
 Men
 ›
@@ -1213,8 +1195,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 180 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : T-Shirt",na,T_MCA3035_BL_S
-74,https://www.amazon.in/dp/B09XXXXC8X,Veirdo Marvel Hulk Anger Management Printed Original Half Sleeves T-Shirt for Men Mustard,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MCA3035_BL_S,veirdo
+74,74,https://www.amazon.in/dp/B09XXXXC8X,Veirdo Marvel Hulk Anger Management Printed Original Half Sleeves T-Shirt for Men Mustard,"Clothing & Accessories
 ›
 Men
 ›
@@ -1230,8 +1212,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : T-Shirt",na,T_MH3044_YL_S
-75,https://www.amazon.in/dp/B09XXZZBBH,Veirdo Marvel Iron-ic! -Original Marvel Printed Original Half Sleeves T-Shirt for Men White,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MH3044_YL_S,veirdo
+75,75,https://www.amazon.in/dp/B09XXZZBBH,Veirdo Marvel Iron-ic! -Original Marvel Printed Original Half Sleeves T-Shirt for Men White,"Clothing & Accessories
 ›
 Men
 ›
@@ -1247,8 +1229,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : T-Shirt",na,T_MIM3049_W_M
-76,https://www.amazon.in/dp/B09XXYLHHJ,Veirdo Marvel Iron Man Saga Original Marvel Printed Original Half Sleeves T-Shirt for Men Red,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MIM3049_W_M,veirdo
+76,76,https://www.amazon.in/dp/B09XXYLHHJ,Veirdo Marvel Iron Man Saga Original Marvel Printed Original Half Sleeves T-Shirt for Men Red,"Clothing & Accessories
 ›
 Men
 ›
@@ -1265,8 +1247,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,T_MIM3053_RD_L
-77,https://www.amazon.in/dp/B09XXBTQWB,JUNEBERRY® Star Wars Pink Power Light Blue Half Sleeve Crop T-Shirt for Women/Girls,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MIM3053_RD_L,veirdo
+77,77,https://www.amazon.in/dp/B09XXBTQWB,JUNEBERRY® Star Wars Pink Power Light Blue Half Sleeve Crop T-Shirt for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -1281,8 +1263,8 @@ Item part number : T_SW2213_SB_3XL
 Country of Origin : India
 Department : Women
 Item Weight : 250 g
-Net Quantity : 1.00 count",na,T_SW2213_SB_3XL
-78,https://www.amazon.in/dp/B09XXFGWVJ,JUNEBERRY® Star Wars All Over Printed Half Sleeve Regular Fit T-Shirt for Women/Girls…,"Clothing & Accessories
+Net Quantity : 1.00 count",na,T_SW2213_SB_3XL,juneberry
+78,78,https://www.amazon.in/dp/B09XXFGWVJ,JUNEBERRY® Star Wars All Over Printed Half Sleeve Regular Fit T-Shirt for Women/Girls…,"Clothing & Accessories
 ›
 Women
 ›
@@ -1297,8 +1279,8 @@ Item part number : T_SW2227_BL
 Country of Origin : India
 Department : Women
 Item Weight : 250 g
-Net Quantity : 1.00 count",na,T_SW2227_BL
-79,https://www.amazon.in/dp/B09XXYXHQ3,Veirdo 100% Cotton Original Star Wars Stormtrooper Tee Regular Fit Round Neck Half Sleeves Army Mask Printed T-Shirt for Men & Boys (T_SW3052_BL),"Clothing & Accessories
+Net Quantity : 1.00 count",na,T_SW2227_BL,juneberry
+79,79,https://www.amazon.in/dp/B09XXYXHQ3,Veirdo 100% Cotton Original Star Wars Stormtrooper Tee Regular Fit Round Neck Half Sleeves Army Mask Printed T-Shirt for Men & Boys (T_SW3052_BL),"Clothing & Accessories
 ›
 Men
 ›
@@ -1314,8 +1296,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : T-Shirt",na,T_SW3052_BL_L
-80,https://www.amazon.in/dp/B0B4PGT95S,"Veirdo Cotton Half Sleeve Printed Oversized T-Shirts for Men, Drop Shoulder Tshirt, Baggy T Shirts for Men, Cool Attractive Drop Shoulder Loose Fit T Shirts for Men & Boys","Clothing & Accessories
+Generic Name : T-Shirt",na,T_SW3052_BL_L,veirdo
+80,80,https://www.amazon.in/dp/B0B4PGT95S,"Veirdo Cotton Half Sleeve Printed Oversized T-Shirts for Men, Drop Shoulder Tshirt, Baggy T Shirts for Men, Cool Attractive Drop Shoulder Loose Fit T Shirts for Men & Boys","Clothing & Accessories
 ›
 Men
 ›
@@ -1328,8 +1310,8 @@ Item part number : UNI_100_OS_VEIRDO_RB_L
 Country of Origin : India
 Department : Men
 Item Weight : 230 g
-Net Quantity : 1.00 count",na,UNI_100_OS_VEIRDO_RB_L
-81,https://www.amazon.in/dp/B0BLWC4L47,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Net Quantity : 1.00 count",na,UNI_100_OS_VEIRDO_RB_L,veirdo
+81,81,https://www.amazon.in/dp/B0BLWC4L47,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1346,8 +1328,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01AGCH028
-82,https://www.amazon.in/dp/B0BLW84TQH,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01AGCH028,veirdo
+82,82,https://www.amazon.in/dp/B0BLW84TQH,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1364,8 +1346,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01BGCH022
-83,https://www.amazon.in/dp/B0BLWDGBHY,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Abstract Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01BGCH022,veirdo
+83,83,https://www.amazon.in/dp/B0BLWDGBHY,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Abstract Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1382,8 +1364,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01BKPT002
-84,https://www.amazon.in/dp/B0BLLMMBVS,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Floral Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01BKPT002,veirdo
+84,84,https://www.amazon.in/dp/B0BLLMMBVS,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Floral Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1400,8 +1382,8 @@ Manufacturer : Trendz Fashion Exports, Marketed By : Awesome Fab Shopping Pvt Lt
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01BKPT007
-85,https://www.amazon.in/dp/B0BLW8P23S,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01BKPT007,veirdo
+85,85,https://www.amazon.in/dp/B0BLW8P23S,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1418,8 +1400,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01BLCH016
-86,https://www.amazon.in/dp/B0BLWMF2BH,"Veirdo Shirt for Men, Cotton Regular Fit Half-Sleeve, Floral Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01BLCH016,veirdo
+86,86,https://www.amazon.in/dp/B0BLWMF2BH,"Veirdo Shirt for Men, Cotton Regular Fit Half-Sleeve, Floral Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1436,8 +1418,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01BLPT036
-87,https://www.amazon.in/dp/B0BM51ZWMY,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Floral Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01BLPT036,veirdo
+87,87,https://www.amazon.in/dp/B0BM51ZWMY,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Floral Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1454,8 +1436,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01BRPT035
-88,https://www.amazon.in/dp/B0BM52FG44,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Botanical Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01BRPT035,veirdo
+88,88,https://www.amazon.in/dp/B0BM52FG44,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Botanical Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1472,8 +1454,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01BRPT037
-89,https://www.amazon.in/dp/B0BLLNS6BH,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01BRPT037,veirdo
+89,89,https://www.amazon.in/dp/B0BLLNS6BH,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1490,8 +1472,8 @@ Manufacturer : Trendz Fashion Exports, Marketed By : Awesome Fab Shopping Pvt Lt
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01DBCH020
-90,https://www.amazon.in/dp/B0BLWDHN49,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01DBCH020,veirdo
+90,90,https://www.amazon.in/dp/B0BLWDHN49,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1508,8 +1490,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01GRCH014
-91,https://www.amazon.in/dp/B0BLLLYYFK,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01GRCH014,veirdo
+91,91,https://www.amazon.in/dp/B0BLLLYYFK,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1526,8 +1508,8 @@ Manufacturer : Trendz Fashion Exports, Marketed By : Awesome Fab Shopping Pvt Lt
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01GRCH023
-92,https://www.amazon.in/dp/B0BLWB7X8L,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01GRCH023,veirdo
+92,92,https://www.amazon.in/dp/B0BLWB7X8L,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1544,8 +1526,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01GRCH026
-93,https://www.amazon.in/dp/B0BLW8XV6L,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01GRCH026,veirdo
+93,93,https://www.amazon.in/dp/B0BLW8XV6L,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1562,8 +1544,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01GRCH030
-94,https://www.amazon.in/dp/B0BLWBNYPC,"Veirdo Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01GRCH030,veirdo
+94,94,https://www.amazon.in/dp/B0BLWBNYPC,"Veirdo Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1580,8 +1562,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01GRCH033
-95,https://www.amazon.in/dp/B0BLLL5DHV,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01GRCH033,veirdo
+95,95,https://www.amazon.in/dp/B0BLLL5DHV,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1598,8 +1580,8 @@ Manufacturer : Trendz Fashion Exports, Marketed By : Awesome Fab Shopping Pvt Lt
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01GYCH010
-96,https://www.amazon.in/dp/B0BLW9QT2R,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01GYCH010,veirdo
+96,96,https://www.amazon.in/dp/B0BLW9QT2R,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1616,8 +1598,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01GYCH031
-97,https://www.amazon.in/dp/B0BM51DQ7Y,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Geometric Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01GYCH031,veirdo
+97,97,https://www.amazon.in/dp/B0BM51DQ7Y,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Geometric Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1634,8 +1616,8 @@ Manufacturer : Trendz Fashion Exports, Marketed By : Awesome Fab Shopping Pvt Lt
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 200 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01GYPT004
-98,https://www.amazon.in/dp/B0BLW9M3CX,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Botanical Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01GYPT004,veirdo
+98,98,https://www.amazon.in/dp/B0BLW9M3CX,"Veirdo® Shirt for Men, Cotton Regular Fit Half-Sleeve, Botanical Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1652,8 +1634,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01GYPT038
-99,https://www.amazon.in/dp/B0BLLLBR95,"Veirdo Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01GYPT038,veirdo
+99,99,https://www.amazon.in/dp/B0BLLLBR95,"Veirdo Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1670,8 +1652,8 @@ Manufacturer : Trendz Fashion Exports, Marketed By : Awesome Fab Shopping Pvt Lt
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01MRCH011
-100,https://www.amazon.in/dp/B0BLW941SN,Veirdo® Cotton Blend Regular Fit Stylish Latest Casual Wear Full Sleeves Maroon Checks Shirt for Men & Boys,"Clothing & Accessories
+Generic Name : Shirt",na,VSH01MRCH011,veirdo
+100,100,https://www.amazon.in/dp/B0BLW941SN,Veirdo® Cotton Blend Regular Fit Stylish Latest Casual Wear Full Sleeves Maroon Checks Shirt for Men & Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -1688,8 +1670,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01MRCH018
-101,https://www.amazon.in/dp/B0BLWDBMW3,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01MRCH018,veirdo
+101,101,https://www.amazon.in/dp/B0BLWDBMW3,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1706,8 +1688,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01MRCH034
-102,https://www.amazon.in/dp/B0BM52QYXL,"Veirdo Shirt for Men, Cotton Regular Fit Full-Sleeves, Floral Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01MRCH034,veirdo
+102,102,https://www.amazon.in/dp/B0BM52QYXL,"Veirdo Shirt for Men, Cotton Regular Fit Full-Sleeves, Floral Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1724,8 +1706,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01MRPT001
-103,https://www.amazon.in/dp/B0BLLMW24L,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Floral Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01MRPT001,veirdo
+103,103,https://www.amazon.in/dp/B0BLLMW24L,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Floral Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1742,8 +1724,8 @@ Manufacturer : Trendz Fashion Exports, Marketed By : Awesome Fab Shopping Pvt Lt
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01NYPT003
-104,https://www.amazon.in/dp/B0BLW8ZBQZ,"Veirdo Shirt for Men, Cotton Regular Fit Short-Sleeve, Floral Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01NYPT003,veirdo
+104,104,https://www.amazon.in/dp/B0BLW8ZBQZ,"Veirdo Shirt for Men, Cotton Regular Fit Short-Sleeve, Floral Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1760,8 +1742,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01NYPT008
-105,https://www.amazon.in/dp/B0BLWB96HV,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Geometric Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01NYPT008,veirdo
+105,105,https://www.amazon.in/dp/B0BLWB96HV,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Geometric Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1778,8 +1760,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01NYPT039
-106,https://www.amazon.in/dp/B0BLWDN6CG,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Floral Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01NYPT039,veirdo
+106,106,https://www.amazon.in/dp/B0BLWDN6CG,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Floral Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1796,8 +1778,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01NYPT041
-107,https://www.amazon.in/dp/B0BLWC85HL,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Leaf Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01NYPT041,veirdo
+107,107,https://www.amazon.in/dp/B0BLWC85HL,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Leaf Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1814,8 +1796,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01OLPT040
-108,https://www.amazon.in/dp/B0BLWCRYKC,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01OLPT040,veirdo
+108,108,https://www.amazon.in/dp/B0BLWCRYKC,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1832,8 +1814,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01ORCH012
-109,https://www.amazon.in/dp/B0BLW9GWY1,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01ORCH012,veirdo
+109,109,https://www.amazon.in/dp/B0BLW9GWY1,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1850,8 +1832,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01ORCH025
-110,https://www.amazon.in/dp/B0BLW96QV7,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01ORCH025,veirdo
+110,110,https://www.amazon.in/dp/B0BLW96QV7,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1868,8 +1850,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01ORCH032
-111,https://www.amazon.in/dp/B0BLW9SBHT,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01ORCH032,veirdo
+111,111,https://www.amazon.in/dp/B0BLW9SBHT,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1886,8 +1868,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01OWCH017
-112,https://www.amazon.in/dp/B0BLX3ZBJ9,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01OWCH017,veirdo
+112,112,https://www.amazon.in/dp/B0BLX3ZBJ9,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1904,8 +1886,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01PTCH013
-113,https://www.amazon.in/dp/B0BLLQLQVL,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01PTCH013,veirdo
+113,113,https://www.amazon.in/dp/B0BLLQLQVL,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1922,8 +1904,8 @@ Manufacturer : Trendz Fashion Exports, Marketed By : Awesome Fab Shopping Pvt Lt
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01PTCH019
-114,https://www.amazon.in/dp/B0BLWDK3NL,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01PTCH019,veirdo
+114,114,https://www.amazon.in/dp/B0BLWDK3NL,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1940,8 +1922,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01RDCH015
-115,https://www.amazon.in/dp/B0BLWBPV45,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Geometric Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01RDCH015,veirdo
+115,115,https://www.amazon.in/dp/B0BLWBPV45,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Geometric Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1958,8 +1940,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01RDPT005
-116,https://www.amazon.in/dp/B0BLWBQNQT,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Geometric Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01RDPT005,veirdo
+116,116,https://www.amazon.in/dp/B0BLWBQNQT,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Geometric Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1976,8 +1958,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01RDPT009
-117,https://www.amazon.in/dp/B0BLWCRYK3,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01RDPT009,veirdo
+117,117,https://www.amazon.in/dp/B0BLWCRYK3,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -1994,8 +1976,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01RRCH029
-118,https://www.amazon.in/dp/B0BLW7Q6K9,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01RRCH029,veirdo
+118,118,https://www.amazon.in/dp/B0BLW7Q6K9,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -2012,8 +1994,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01RUCH021
-119,https://www.amazon.in/dp/B0BLWBM72T,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Floral Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01RUCH021,veirdo
+119,119,https://www.amazon.in/dp/B0BLWBM72T,"Veirdo® Shirt for Men, Cotton Regular Fit Short-Sleeve, Floral Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -2030,8 +2012,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 180 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01SBPT006
-120,https://www.amazon.in/dp/B0BLW9N4CM,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
+Generic Name : Shirt",na,VSH01SBPT006,veirdo
+120,120,https://www.amazon.in/dp/B0BLW9N4CM,"Veirdo® Shirt for Men, Cotton Regular Fit Full-Sleeve, Plaid Printed Shirt","Clothing & Accessories
 ›
 Men
 ›
@@ -2048,8 +2030,8 @@ Manufacturer : Awesome Fab Shopping Pvt Ltd, Marketed By : Awesome Fab Shopping 
 Packer : Marketed By : Awesome Fab Shopping Pvt Ltd 01/A 1st Floor, ANZ Infinity, Near Ranipur Church, Narol Ahmedabad - 382405
 Item Weight : 260 g
 Net Quantity : 1.00 count
-Generic Name : Shirt",na,VSH01TBCH027
-121,https://www.amazon.in/dp/B0BPMKJ7TT,Veirdo Geometric Print Zip Up Cotton Shacket/Jacket For Men,"Clothing & Accessories
+Generic Name : Shirt",na,VSH01TBCH027,veirdo
+121,121,https://www.amazon.in/dp/B0BPMKJ7TT,Veirdo Geometric Print Zip Up Cotton Shacket/Jacket For Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2066,8 +2048,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Packer : Awesomefab Shopping Pvt Ltd
-Item Weight : 400 g",na,VSK01BKPT002_L
-122,https://www.amazon.in/dp/B0BPMGVG4P,Veirdo® Leopard Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
+Item Weight : 400 g",na,VSK01BKPT002_L,veirdo
+122,122,https://www.amazon.in/dp/B0BPMGVG4P,Veirdo® Leopard Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2084,8 +2066,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Packer : Awesomefab Shopping Pvt Ltd
-Item Weight : 400 g",na,VSK01BLPT008_L
-123,https://www.amazon.in/dp/B0BPMH3BDM,Veirdo® Chains Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
+Item Weight : 400 g",na,VSK01BLPT008_L,veirdo
+123,123,https://www.amazon.in/dp/B0BPMH3BDM,Veirdo® Chains Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2102,8 +2084,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Packer : Awesomefab Shopping Pvt Ltd
-Item Weight : 400 g",na,VSK01BLPT009_L
-124,https://www.amazon.in/dp/B0BPMHKZ82,Veirdo Paisley Printed Zip Up Cotton Shacket/Jacket For Men,"Clothing & Accessories
+Item Weight : 400 g",na,VSK01BLPT009_L,veirdo
+124,124,https://www.amazon.in/dp/B0BPMHKZ82,Veirdo Paisley Printed Zip Up Cotton Shacket/Jacket For Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2120,8 +2102,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Packer : Awesomefab Shopping Pvt Ltd
-Item Weight : 400 g",na,VSK01NBPT001_L
-125,https://www.amazon.in/dp/B0BPMHK8NM,Veirdo® Flowers Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
+Item Weight : 400 g",na,VSK01NBPT001_L,veirdo
+125,125,https://www.amazon.in/dp/B0BPMHK8NM,Veirdo® Flowers Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2138,8 +2120,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Packer : Awesomefab Shopping Pvt Ltd
-Item Weight : 400 g",na,VSK01NBPT005_L
-126,https://www.amazon.in/dp/B0BPMJMVY2,Veirdo® Leaves Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
+Item Weight : 400 g",na,VSK01NBPT005_L,veirdo
+126,126,https://www.amazon.in/dp/B0BPMJMVY2,Veirdo® Leaves Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2156,8 +2138,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Packer : Awesomefab Shopping Pvt Ltd
-Item Weight : 400 g",na,VSK01NBPT006_L
-127,https://www.amazon.in/dp/B0BPMH3BXR,Veirdo® Army Camoflauge Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
+Item Weight : 400 g",na,VSK01NBPT006_L,veirdo
+127,127,https://www.amazon.in/dp/B0BPMH3BXR,Veirdo® Army Camoflauge Printed Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2174,8 +2156,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Packer : Awesomefab Shopping Pvt Ltd
-Item Weight : 400 g",na,VSK01OLPT007_L
-128,https://www.amazon.in/dp/B0BPMG85YB,Veirdo® Floral Print Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
+Item Weight : 400 g",na,VSK01OLPT007_L,veirdo
+128,128,https://www.amazon.in/dp/B0BPMG85YB,Veirdo® Floral Print Zip Up Cotton Shacket/Jacket for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2192,8 +2174,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Packer : Awesomefab Shopping Pvt Ltd
-Item Weight : 400 g",na,VSK01RDPT003_L
-129,https://www.amazon.in/dp/B0BPMFKFCN,Veirdo Printed Zip Up Cotton Shacket/Jacket For Men,"Clothing & Accessories
+Item Weight : 400 g",na,VSK01RDPT003_L,veirdo
+129,129,https://www.amazon.in/dp/B0BPMFKFCN,Veirdo Printed Zip Up Cotton Shacket/Jacket For Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2210,8 +2192,8 @@ Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
 Packer : Awesomefab Shopping Pvt Ltd
-Item Weight : 400 g",na,VSK01WHPT004_L
-130,https://www.amazon.in/dp/B09RFCQJLR,JUNEBERRY Sweatshirt for Girls,"Clothing & Accessories
+Item Weight : 400 g",na,VSK01WHPT004_L,veirdo
+130,130,https://www.amazon.in/dp/B09RFCQJLR,JUNEBERRY Sweatshirt for Girls,"Clothing & Accessories
 ›
 Girls
 ›
@@ -2225,8 +2207,8 @@ ASIN : B09RFCQJLR
 Item part number : W_04_GL_COW_MKY_M
 Country of Origin : India
 Department : Women
-Item Weight : 50 g",na,W_04_GL_COW_MKY_M
-131,https://www.amazon.in/dp/B0BNJ33WZH,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
+Item Weight : 50 g",na,W_04_GL_COW_MKY_M,juneberry
+131,131,https://www.amazon.in/dp/B0BNJ33WZH,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -2242,8 +2224,8 @@ Item part number : W_05_BDSIGNAL_MY_3XL
 Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 620 g",na,W_05_BDSIGNAL_MY_3XL
-132,https://www.amazon.in/dp/B0BLKTNYHR,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
+Item Weight : 620 g",na,W_05_BDSIGNAL_MY_3XL,veirdo
+132,132,https://www.amazon.in/dp/B0BLKTNYHR,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -2259,8 +2241,8 @@ Item part number : W_05_BROWN_SUN_S
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 620 g",na,W_05_BROWN_SUN_S
-133,https://www.amazon.in/dp/B0BNHZ2LTF,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
+Item Weight : 620 g",na,W_05_BROWN_SUN_S,veirdo
+133,133,https://www.amazon.in/dp/B0BNHZ2LTF,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -2276,8 +2258,8 @@ Item part number : W_05_DIMENSION_N_3XL
 Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 620 g",na,W_05_DIMENSION_N_3XL
-134,https://www.amazon.in/dp/B0BNJ1PH5X,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
+Item Weight : 620 g",na,W_05_DIMENSION_N_3XL,veirdo
+134,134,https://www.amazon.in/dp/B0BNJ1PH5X,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -2293,8 +2275,8 @@ Item part number : W_05_HLDVSION_O_3XL
 Country of Origin : India
 Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 650 g",na,W_05_HLDVSION_O_3XL
-135,https://www.amazon.in/dp/B0BF5J3JBS,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Solid Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
+Item Weight : 650 g",na,W_05_HLDVSION_O_3XL,veirdo
+135,135,https://www.amazon.in/dp/B0BF5J3JBS,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Solid Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -2310,8 +2292,8 @@ Item part number : W_05_PURPLE_3XL
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 590 g",na,W_05_PURPLE_3XL
-136,https://www.amazon.in/dp/B0BLCQBVB2,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
+Item Weight : 590 g",na,W_05_PURPLE_3XL,veirdo
+136,136,https://www.amazon.in/dp/B0BLCQBVB2,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -2327,8 +2309,8 @@ Item part number : W_05_PURPLE_SMILE_3XL
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 620 g",na,W_05_PURPLE_SMILE_3XL
-137,https://www.amazon.in/dp/B0BF5N4K12,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Solid Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
+Item Weight : 620 g",na,W_05_PURPLE_SMILE_3XL,veirdo
+137,137,https://www.amazon.in/dp/B0BF5N4K12,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Solid Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -2344,8 +2326,8 @@ Item part number : W_05_RUST_3XL
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 590 g",na,W_05_RUST_3XL
-138,https://www.amazon.in/dp/B0BMQDYDQF,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
+Item Weight : 590 g",na,W_05_RUST_3XL,veirdo
+138,138,https://www.amazon.in/dp/B0BMQDYDQF,Veirdo® Cotton Fleece Regular Fit Hooded Sweatshirt Full Sleeves Doodle Graphic Printed Jumper Sweatshirt for Men/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -2361,8 +2343,8 @@ Item part number : W_05_RUST_VEIRDO_3XL
 Country of Origin : India
 Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd
-Item Weight : 620 g",na,W_05_RUST_VEIRDO_3XL
-139,https://www.amazon.in/dp/B09R22L2Q4,Veirdo Round Neck Regular Full Sleeves Sweatshirt for Men,"Clothing & Accessories
+Item Weight : 620 g",na,W_05_RUST_VEIRDO_3XL,veirdo
+139,139,https://www.amazon.in/dp/B09R22L2Q4,Veirdo Round Neck Regular Full Sleeves Sweatshirt for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2376,8 +2358,8 @@ ASIN : B09R22L2Q4
 Item part number : W_334_CAMPUS_S
 Country of Origin : India
 Department : Men
-Item Weight : 50 g",na,W_334_CAMPUS_S
-140,https://www.amazon.in/dp/B09QCC8N76,JUNEBERRY Full Sleeve Crop Top for Girls,"Clothing & Accessories
+Item Weight : 50 g",na,W_334_CAMPUS_S,veirdo
+140,140,https://www.amazon.in/dp/B09QCC8N76,JUNEBERRY Full Sleeve Crop Top for Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -2392,9 +2374,8 @@ Item part number : W_GL_RUN_YLW_XL
 Country of Origin : India
 Department : Women
 Item Weight : 250 g
-Net Quantity : 1.00 count",na,W_GL_RUN_YLW_XL
-141,https://www.amazon.in/dp/B0BSH6S8M8,na,na,0,,na,na,na,0
-142,https://www.amazon.in/dp/B09RPSK2BJ,JUNEBERRY® Women's Cotton Drop Shoulder Tie Dye Long/Knee Length T-Shirt,"Clothing & Accessories
+Net Quantity : 1.00 count",na,W_GL_RUN_YLW_XL,juneberry
+142,142,https://www.amazon.in/dp/B09RPSK2BJ,JUNEBERRY® Women's Cotton Drop Shoulder Tie Dye Long/Knee Length T-Shirt,"Clothing & Accessories
 ›
 Women
 ›
@@ -2408,8 +2389,8 @@ ASIN : B09RPSK2BJ
 Item part number : OS_601_ORANGE_
 Department : Women
 Item Weight : 500 g
-Net Quantity : 1.00 count",na,OS_601_ORANGE_
-143,https://www.amazon.in/dp/B0B4PCZ3R3,Veirdo Marvel Oversized | Loose Fit | Relaxed Fit |Original Marvel Tee - Thor Love and Thunder Printed Mens Ovesize Half Sleeve Round Neck T-Shirt Black Colour for Mens/Boys,"Clothing & Accessories
+Net Quantity : 1.00 count",na,OS_601_ORANGE_,juneberry
+143,143,https://www.amazon.in/dp/B0B4PCZ3R3,Veirdo Marvel Oversized | Loose Fit | Relaxed Fit |Original Marvel Tee - Thor Love and Thunder Printed Mens Ovesize Half Sleeve Round Neck T-Shirt Black Colour for Mens/Boys,"Clothing & Accessories
 ›
 Men
 ›
@@ -2425,8 +2406,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,OS_MTH_3060_B_L
-144,https://www.amazon.in/dp/B0B51XFZVF,"Veirdo Mens T Shirts with Collar, Polo T Shirt, Half Sleeves Polo Tshirt, Cotton Men T Shirt Collar Neck","Clothing & Accessories
+Generic Name : T-Shirt",na,OS_MTH_3060_B_L,veirdo
+144,144,https://www.amazon.in/dp/B0B51XFZVF,"Veirdo Mens T Shirts with Collar, Polo T Shirt, Half Sleeves Polo Tshirt, Cotton Men T Shirt Collar Neck","Clothing & Accessories
 ›
 Men
 ›
@@ -2440,8 +2421,8 @@ Item part number : P_AEROPLANE_404_W_3XL
 Department : Men
 Manufacturer : AWESOME FAB SHOPPING PVT LTD
 Item Weight : 220 g
-Net Quantity : 1.00 count",na,P_AEROPLANE_404_W_3XL
-145,https://www.amazon.in/dp/B09XXMHSNV,JUNEBERRY® Star Wars with Helmet Printed Regular Fit Long Knee Length T-Shirt for Women/Girls,"Clothing & Accessories
+Net Quantity : 1.00 count",na,P_AEROPLANE_404_W_3XL,veirdo
+145,145,https://www.amazon.in/dp/B09XXMHSNV,JUNEBERRY® Star Wars with Helmet Printed Regular Fit Long Knee Length T-Shirt for Women/Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -2456,8 +2437,8 @@ Item part number : P_ST223 _GRY
 Country of Origin : India
 Department : Women
 Item Weight : 220 g
-Net Quantity : 1.00 count",na,P_ST223 _GRY
-146,https://www.amazon.in/dp/B0B77KJ8ZV,Veirdo Men's Regular Fit Polo Neck Half Sleeve Printed T-Shirt Soft Nut Colour,"Clothing & Accessories
+Net Quantity : 1.00 count",na,P_ST223 _GRY,juneberry
+146,146,https://www.amazon.in/dp/B0B77KJ8ZV,Veirdo Men's Regular Fit Polo Neck Half Sleeve Printed T-Shirt Soft Nut Colour,"Clothing & Accessories
 ›
 Men
 ›
@@ -2471,8 +2452,8 @@ Item part number : P_SUPERIOR_400_SN_3XL
 Department : Men
 Manufacturer : Awesomefab Shopping Private Limited, Awesomefab Shopping Private Limited
 Item Weight : 200 g
-Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,P_SUPERIOR_400_SN_3XL
-147,https://www.amazon.in/dp/B09SB47KDR,Veirdo Marvel Iron Man Printed Black Color Half Sleeve Regular Fit T-Shirt for Men,"Clothing & Accessories
+Item Dimensions LxWxH : 27 x 25 x 2 Centimeters",na,P_SUPERIOR_400_SN_3XL,veirdo
+147,147,https://www.amazon.in/dp/B09SB47KDR,Veirdo Marvel Iron Man Printed Black Color Half Sleeve Regular Fit T-Shirt for Men,"Clothing & Accessories
 ›
 Men
 ›
@@ -2484,8 +2465,8 @@ ASIN : B09SB47KDR
 Item part number : TSH_MIM_BLK_
 Department : Men
 Item Weight : 50 g
-Net Quantity : 1.00 count",na,TSH_MIM_BLK_
-148,https://www.amazon.in/dp/B0B3TQW2KD,JUNEBERRY Original Disney Round Neck Half Sleeve Regular Fit Cartoon Printed Peach Color T-Shirt for Women/Girls (T_DMF2220_SN),"Clothing & Accessories
+Net Quantity : 1.00 count",na,TSH_MIM_BLK_,veirdo
+148,148,https://www.amazon.in/dp/B0B3TQW2KD,JUNEBERRY Original Disney Round Neck Half Sleeve Regular Fit Cartoon Printed Peach Color T-Shirt for Women/Girls (T_DMF2220_SN),"Clothing & Accessories
 ›
 Women
 ›
@@ -2501,8 +2482,8 @@ Item part number : T_DMF2220_SN_L
 Department : Women
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Pvt Ltd
 Item Weight : 200 g
-Item Dimensions LxWxH : 27 x 25 x 2.5 Centimeters",na,T_DMF2220_SN_L
-149,https://www.amazon.in/dp/B09X2T1XYH,Veirdo Original Disney Pure Cotton Regular Fit Round Neck Half Sleeves Mickey Yellow Printed T-Shirt for Men & Boys (T_DMF3004_YL),"Clothing & Accessories
+Item Dimensions LxWxH : 27 x 25 x 2.5 Centimeters",na,T_DMF2220_SN_L,juneberry
+149,149,https://www.amazon.in/dp/B09X2T1XYH,Veirdo Original Disney Pure Cotton Regular Fit Round Neck Half Sleeves Mickey Yellow Printed T-Shirt for Men & Boys (T_DMF3004_YL),"Clothing & Accessories
 ›
 Men
 ›
@@ -2515,8 +2496,8 @@ Item model number : T_DMF3004_YL_L_UL
 Department : Men
 Item Weight : 250 g
 Net Quantity : 1.00 count
-Generic Name : Regular Fit T-Shirt",na,T_DMF3004_YL_L_UL
-150,https://www.amazon.in/dp/B09XVJ58KL,JUNEBERRY® Original Marvel Printed Regular Fit Tee for Women/Girls (XXX-Large) Black,"Clothing & Accessories
+Generic Name : Regular Fit T-Shirt",na,T_DMF3004_YL_L_UL,veirdo
+150,150,https://www.amazon.in/dp/B09XVJ58KL,JUNEBERRY® Original Marvel Printed Regular Fit Tee for Women/Girls (XXX-Large) Black,"Clothing & Accessories
 ›
 Women
 ›
@@ -2530,8 +2511,8 @@ ASIN : B09XVJ58KL
 Item part number : T_MAOP2229_BL
 Department : Women
 Item Weight : 20 g
-Net Quantity : 1.00 count",na,T_MAOP2229_BL
-151,https://www.amazon.in/dp/B09XY28JWD,Veirdo Marvel Captain America Printed Original Half Sleeves T-Shirt for Men Navy,"Clothing & Accessories
+Net Quantity : 1.00 count",na,T_MAOP2229_BL,juneberry
+151,151,https://www.amazon.in/dp/B09XY28JWD,Veirdo Marvel Captain America Printed Original Half Sleeves T-Shirt for Men Navy,"Clothing & Accessories
 ›
 Men
 ›
@@ -2546,8 +2527,8 @@ Department : Men
 Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
-Generic Name : T-Shirt",na,T_MAV3020_NB_L
-152,https://www.amazon.in/dp/B09XY1CPCN,Veirdo Marvel Thor Forever Printed Original Half Sleeves T-Shirt for Men Lilac,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MAV3020_NB_L,veirdo
+152,152,https://www.amazon.in/dp/B09XY1CPCN,Veirdo Marvel Thor Forever Printed Original Half Sleeves T-Shirt for Men Lilac,"Clothing & Accessories
 ›
 Men
 ›
@@ -2563,8 +2544,8 @@ Manufacturer : Awesomefab Shopping Pvt Ltd, Awesomefab Shopping Private Limited
 Item Weight : 200 g
 Item Dimensions LxWxH : 27 x 25 x 2 Centimeters
 Net Quantity : 1.00 count
-Generic Name : T-Shirt",na,T_MTH3033_LLC_L
-153,https://www.amazon.in/dp/B09Q9693N9,JUNEBERRY Full Sleeve Crop Top for Girls,"Clothing & Accessories
+Generic Name : T-Shirt",na,T_MTH3033_LLC_L,veirdo
+153,153,https://www.amazon.in/dp/B09Q9693N9,JUNEBERRY Full Sleeve Crop Top for Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -2578,8 +2559,8 @@ ASIN : B09Q9693N9
 Item part number : W_GL_DALI_RED_3XL
 Department : Women
 Item Weight : 250 g
-Net Quantity : 1.00 count",na,W_GL_DALI_RED_3XL
-154,https://www.amazon.in/dp/B09QCLJD9S,JUNEBERRY Full Sleeve Crop Top for Girls,"Clothing & Accessories
+Net Quantity : 1.00 count",na,W_GL_DALI_RED_3XL,juneberry
+154,154,https://www.amazon.in/dp/B09QCLJD9S,JUNEBERRY Full Sleeve Crop Top for Girls,"Clothing & Accessories
 ›
 Women
 ›
@@ -2593,4 +2574,4 @@ ASIN : B09QCLJD9S
 Item part number : W_GL_RUN_NAVY_3XL
 Department : Women
 Item Weight : 250 g
-Net Quantity : 1.00 count",na,W_GL_RUN_NAVY_3XL
+Net Quantity : 1.00 count",na,W_GL_RUN_NAVY_3XL,juneberry
